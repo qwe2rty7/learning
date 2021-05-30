@@ -33,7 +33,6 @@ export default class MyDocument extends Document {
 		return (
 			<Html lang='en-us'>
 				<Head>
-					<title>NextJS Boilerplate | Nik Schaefer</title>
 					<meta
 						name="description"
 						content={META.description}
